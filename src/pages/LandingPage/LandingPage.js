@@ -1,6 +1,5 @@
 import React from 'react';
 import { Button, Col, Container, Row } from 'react-bootstrap';
-import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import Header from '../../components/Header';
 import Layout from '../../components/Layout';
