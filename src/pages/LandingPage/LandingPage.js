@@ -7,8 +7,8 @@ import Layout from '../../components/Layout';
 import './LandingPage.css';
 
 function LandingPage() {
-  const userSignIn = useSelector((state) => state.userSignIn);
-  const { userInfo } = userSignIn;
+  // const userSignIn = useSelector((state) => state.userSignIn);
+  // const { userInfo } = userSignIn;
 
   return (
     <Layout>
